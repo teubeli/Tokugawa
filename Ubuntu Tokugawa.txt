@@ -70,8 +70,8 @@ sudo nano /etc/fstab
 ##(Save and exit)
 
 cd ~
-git clone https://tokugawacoin/tokugawa.git
-cd ~/Tokugawacoin/src
+git clone https://github.com/TokugawaCoin/Tokugawa
+cd ~/Tokugawa/src
 make -f makefile.unix # Headless
 
 ---Note edit as nano------
